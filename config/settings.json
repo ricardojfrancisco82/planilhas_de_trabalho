@@ -1,0 +1,26 @@
+{
+  "paths": {
+    "input_folder": "G:/erld/FINANCEIRO/PASTAS ADM FIN/Inputs",
+    "output_folder": "G:/erld/FINANCEIRO/PASTAS ADM FIN/Outputs",
+  }
+  "formatting": {
+    "currency_format": "R$ #,##0.00",
+    "date_format": "DD/MM/YYYY",
+    "palette_parana": {
+      "azul_escuro": "#1E3A5F",
+      "azul_medio": "#2E75B6",
+      "azul_claro": "#BDD7EE",
+      "azul_palido": "#EAF2FB",
+      "verde_escuro": "#1A5E2A",
+      "verde_medio": "#2E8B57",
+      "verde_claro": "#C6EFCE",
+      "verde_palido": "#EAF5EA",
+      "branco": "#FFFFFF",
+      "cinza_claro": "#F2F2F2",
+      "cinza_medio": "#D9D9D9",
+      "amarelo_alert": "#FFF2CC",
+      "vermelho_alert": "#FFE0E0",
+      "texto_escuro": "#1A1A2E"
+    }
+  }
+}
